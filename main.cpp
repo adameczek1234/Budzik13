@@ -1,5 +1,4 @@
 #include <chrono>
-#include <exception>
 #include <iostream>
 #include <ostream>
 #include <string>
@@ -229,5 +228,4 @@ int main() {
                 std::cout << "Niepoprawna opcja!\n";
         }
     }
-    delete budzik;
 }
